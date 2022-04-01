@@ -1,0 +1,7 @@
+github.com/vansimke/dep v1.0.0 h1:FJ0dBSv8ZbZnhkNY3DNDtlj4AJxDiwZdo9uQZXYycRI=
+github.com/vansimke/dep v1.0.0/go.mod h1:OAO3k3EzY4IUw5N3mWJURElL1zFYG3GVjWoZkA5YuqI=
+github.com/vansimke/dep v1.0.1 h1:jWuCIOwHWpXg98pnhZEmi4SxovULC9Z0t4oVIBITROk=
+github.com/vansimke/dep/v2 v2.0.0 h1:+z1dEe6DpPSctRwgVgyckAiLuabuc3W7ekeuR5SuLOU=
+github.com/vansimke/dep/v2 v2.0.0/go.mod h1:9Dg3Xn+rJcml6RefphZMmc3LAwGtjQuHru0P0OvsdAY=
+github.com/vansimke/dep/v3 v3.0.0-20201118165126-9529c1096223 h1:6wZAnuTZLql0ECf9hlSJwEaX1HDG333FdUR94Y9pDRc=
+github.com/vansimke/dep/v3 v3.0.0-20201118165126-9529c1096223/go.mod h1:/FsMlJJuOitA87Ma/VQ7e0B2fsA0pS6iDKSgzaSmInE=

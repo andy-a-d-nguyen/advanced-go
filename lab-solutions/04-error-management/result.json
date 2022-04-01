@@ -1,0 +1,477 @@
+{
+	"Title": "go.dev",
+	"Children": [
+		{
+			"Title": "Why Go - go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "pkg.go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				}
+			]
+		},
+		{
+			"Title": "Getting Started - go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "pkg.go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "Downloads - The Go Programming Language"
+				},
+				{
+					"Title": "Go (Golang) Consulting, Development, \u0026amp; Training - Ardan Labs"
+				},
+				{
+					"Title": "Go (golang) Training By Community Leaders - Gopher Guides"
+				},
+				{
+					"Title": "Boss Sauce Creative"
+				},
+				{
+					"Title": "gokit/training at master · shijuvar/gokit · GitHub"
+				},
+				{
+					"Title": "Go Developers | Meetup Pro - Meetup"
+				},
+				{
+					"Title": "GoVirCon | Meetup"
+				},
+				{
+					"Title": "Leipzig Golang Meetup #14 | Meetup"
+				},
+				{
+					"Title": "Go Community Code of Conduct - The Go Programming Language"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "The New Go Developer Network - The Go Blog"
+				},
+				{
+					"Title": "Gopher Conference Taiwan 2020 | Meetup"
+				},
+				{
+					"Title": "Go程式語言 (Golang Taiwan, Gopher Taipei)"
+				},
+				{
+					"Title": "Telegram: Contact @golangtw"
+				},
+				{
+					"Title": "GitHub - golangtw/GolangTaiwanGathering: Golang Gophers meetup information and slide collection"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "Golang Taiwan - YouTube"
+				},
+				{
+					"Title": "GitHub - golangtw/jobs: 台灣 GO 語言招募職缺列表"
+				}
+			]
+		},
+		{
+			"Title": "pkg.go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "The Go Programming Language"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "Copyright - go.dev"
+				},
+				{
+					"Title": "Terms of Service - go.dev"
+				}
+			]
+		},
+		{
+			"Title": "About - go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "pkg.go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "go.dev"
+				},
+				{
+					"Title": "Minimum viable product - Wikipedia"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "go - The Go Programming Language"
+				},
+				{
+					"Title": "go - The Go Programming Language"
+				},
+				{
+					"Title": "Sign in to GitHub · GitHub"
+				},
+				{
+					"Title": "Godoc: documenting Go code - The Go Blog"
+				},
+				{
+					"Title": "Badge generation tool · pkg.go.dev"
+				},
+				{
+					"Title": "pkgsite · pkg.go.dev"
+				},
+				{
+					"Title": "Licenses · pkg.go.dev"
+				},
+				{
+					"Title": "Google Groups"
+				}
+			]
+		},
+		{
+			"Title": "Getting Started - go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "pkg.go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "Downloads - The Go Programming Language"
+				},
+				{
+					"Title": "Go (Golang) Consulting, Development, \u0026amp; Training - Ardan Labs"
+				},
+				{
+					"Title": "Go (golang) Training By Community Leaders - Gopher Guides"
+				},
+				{
+					"Title": "Boss Sauce Creative"
+				},
+				{
+					"Title": "gokit/training at master · shijuvar/gokit · GitHub"
+				},
+				{
+					"Title": "Go Developers | Meetup Pro - Meetup"
+				},
+				{
+					"Title": "GoVirCon | Meetup"
+				},
+				{
+					"Title": "Leipzig Golang Meetup #14 | Meetup"
+				},
+				{
+					"Title": "Go Community Code of Conduct - The Go Programming Language"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "The New Go Developer Network - The Go Blog"
+				},
+				{
+					"Title": "Gopher Conference Taiwan 2020 | Meetup"
+				},
+				{
+					"Title": "Go程式語言 (Golang Taiwan, Gopher Taipei)"
+				},
+				{
+					"Title": "Telegram: Contact @golangtw"
+				},
+				{
+					"Title": "GitHub - golangtw/GolangTaiwanGathering: Golang Gophers meetup information and slide collection"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "Golang Taiwan - YouTube"
+				},
+				{
+					"Title": "GitHub - golangtw/jobs: 台灣 GO 語言招募職缺列表"
+				}
+			]
+		},
+		{
+			"Title": "Downloads - The Go Programming Language",
+			"Children": [
+				{
+					"Title": "The Go Playground"
+				},
+				{
+					"Title": "Privacy: Go modules services"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "Sign in to GitHub · GitHub"
+				},
+				{
+					"Title": "Google"
+				}
+			]
+		},
+		{
+			"Title": "Downloads - The Go Programming Language",
+			"Children": [
+				{
+					"Title": "The Go Playground"
+				},
+				{
+					"Title": "Privacy: Go modules services"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "Sign in to GitHub · GitHub"
+				},
+				{
+					"Title": "Google"
+				}
+			]
+		},
+		{
+			"Title": "GoVirCon | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Leipzig Golang Meetup #14 | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Gopher Conference Taiwan 2020 | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "November Meetup (Online) | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Golang Dorset Monthly Meetup | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "November | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Contribution \u0026gt; OpenBoard Check-in | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Women Who Go Talk evening | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "November Golang Meetup | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "OpenTracing in Go Microservices | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Go meetup | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "2º encontro de 2020 | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Golang Meetup (Online) - Noviembre 2020 - CDMX y Guadalajara | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Denver Monthly Go Meetup | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "TBA  | Meetup",
+			"Children": [
+				{
+					"Title": "Cookie Policy \u0026ndash; Meetup"
+				}
+			]
+		},
+		{
+			"Title": "Getting Started - go.dev",
+			"Children": [
+				{
+					"Title": "Why Go - go.dev"
+				},
+				{
+					"Title": "Getting Started - go.dev"
+				},
+				{
+					"Title": "pkg.go.dev"
+				},
+				{
+					"Title": "About - go.dev"
+				},
+				{
+					"Title": "Downloads - The Go Programming Language"
+				},
+				{
+					"Title": "Go (Golang) Consulting, Development, \u0026amp; Training - Ardan Labs"
+				},
+				{
+					"Title": "Go (golang) Training By Community Leaders - Gopher Guides"
+				},
+				{
+					"Title": "Boss Sauce Creative"
+				},
+				{
+					"Title": "gokit/training at master · shijuvar/gokit · GitHub"
+				},
+				{
+					"Title": "Go Developers | Meetup Pro - Meetup"
+				},
+				{
+					"Title": "GoVirCon | Meetup"
+				},
+				{
+					"Title": "Leipzig Golang Meetup #14 | Meetup"
+				},
+				{
+					"Title": "Go Community Code of Conduct - The Go Programming Language"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "The New Go Developer Network - The Go Blog"
+				},
+				{
+					"Title": "Stereo Doll @ the Deck | Meetup"
+				},
+				{
+					"Title": "Go程式語言 (Golang Taiwan, Gopher Taipei)"
+				},
+				{
+					"Title": "Telegram: Contact @golangtw"
+				},
+				{
+					"Title": "GitHub - golangtw/GolangTaiwanGathering: Golang Gophers meetup information and slide collection"
+				},
+				{
+					"Title": ""
+				},
+				{
+					"Title": "Golang Taiwan - YouTube"
+				},
+				{
+					"Title": "GitHub - golangtw/jobs: 台灣 GO 語言招募職缺列表"
+				}
+			]
+		}
+	]
+}
